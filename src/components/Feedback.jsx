@@ -9,7 +9,7 @@ const Feedback = () => {
       <div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
-            Complain or Praise :D
+            Complain or Praise
           </p>
           <p className="py-6 text-2xl font-semibold">Share your kind words </p>
         </div>
@@ -36,7 +36,7 @@ const Feedback = () => {
             />
             <textarea
               name="message"
-              placeholder="Enter your message"
+              placeholder="Enter your feedback"
               rows="10"
               className="p-2 bg-transparent border-2 rounded-md  focus:outline-black"
             ></textarea>
