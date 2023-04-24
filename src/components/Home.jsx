@@ -4,7 +4,7 @@ import {DiJava } from 'react-icons/di';
 import { RxDot } from 'react-icons/rx';
 import { FaPython } from 'react-icons/fa';
 import { GrCss3, GrGithub, GrHtml5, GrInstagram,  GrLinkedin, GrLocation, GrMail, GrReactjs, GrTwitter,GrJs} from 'react-icons/gr'
-import Devsatyam from "../assets/IMG_20230407_190638.jpg";
+import Devsatyam from "../assets/IMG_20230407_190638.png";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 // import { Link } from "react-scroll";
 
