@@ -48,7 +48,7 @@ const Home = () => {
             <div>
               <div className="flex gap-3 justify-center py-3 text-lg ">
               <GrMail size={27}></GrMail>
-              <p class="font-mono font-semibold">devsatyamr@gmail.com</p>
+              <p class="font-mono font-semibold">devsatyam@devsatyamray.com</p>
               </div>
               <div className="flex gap-3 justify-center py-3 text-lg">
               <GrLocation size={27}></GrLocation>
