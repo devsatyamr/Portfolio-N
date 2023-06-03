@@ -57,7 +57,7 @@ const Home = () => {
             </div>
 
           <div >
-            <center><a href="https://drive.google.com/file/d/14OQAuvvZYSAuZHdIaLeJrVT1-NwZV5H5/view?usp=sharing" target="_blank" rel="noreferrer"><div className="group text-white text-center font-semibold w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-purple-600 cursor-pointer">
+            <center><a href="https://drive.google.com/file/d/1IvrUNecAfp-aISuMUG4rU_Q9Br_fEPm1/view?usp=sharing" target="_blank" rel="noreferrer"><div className="group text-white text-center font-semibold w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-purple-600 cursor-pointer">
               Resume
               <span className="group-hover:translate-x-2 duration-300 ">
                 <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
