@@ -8,10 +8,17 @@ import python from "../assets/python.png";
 import cpp from"../assets/c-.png";
 import java from"../assets/java.png";
 import gcd from"../assets/google-cloud.512x412.png";
+import linux from"../assets/Linux_logo_PNG3.png";
 
 const Experience = () => {
   const techs = [
     
+    {
+      id: 1,
+      src: linux,
+      title: "Linux",
+      style: "shadow-slate-500",
+    },
     {
       id: 2,
       src: javascript,

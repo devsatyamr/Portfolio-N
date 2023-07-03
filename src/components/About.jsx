@@ -25,13 +25,13 @@ const About = () => {
         className="box-border inline-block w-1 h-10 ml-2 -mb-2 bg-white md:-mb-4 md:h-16 animate-cursor will-change-transform"
         ></span>
     </h1>
-    <div className="text-xl font-semibold md:text-3xl">developer by passion, passionate about developing</div>
+    <div className="text-xl font-semibold md:text-3xl">Web developer, Cybersecurity enthusiast, Securing digital realms</div>
     </header>
 
         <br />
 
         <p className="text-xl">
-          I am currently a CSE Undergrad as a fresher at Institute of Engineering & Management, Kolkata. I am a hardworking student. I have an excellent communication skills and love to meet new people. I am looking for opportunities to learn more.
+          I am currently a CSE Undergrad as a sophomore at Institute of Engineering & Management, Kolkata. I am a hardworking student. In the realm of cybersecurity, I find great joy in exploring the intricate mechanisms that protect digital systems and data. Whether it's analyzing vulnerabilities, implementing robust security measures, or staying updated on the latest threats, my enthusiasm fuels my dedication to safeguarding the digital realm. Simultaneously, my love for web development allows me to weave creativity and functionality into the digital landscape. With expertise in various programming languages and frameworks, I thrive in crafting engaging and user-friendly web experiences. From designing visually appealing interfaces to developing efficient and scalable code, I strive to create seamless online experiences. I have an excellent communication skills and love to meet new people. I am looking for opportunities to learn more.
         </p>
       </div>
     </div>

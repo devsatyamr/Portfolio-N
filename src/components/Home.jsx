@@ -2,8 +2,8 @@ import React from "react";
 import {GiGraduateCap,  } from 'react-icons/gi';
 import {DiJava } from 'react-icons/di';
 import { RxDot } from 'react-icons/rx';
-import { FaPython } from 'react-icons/fa';
-import { GrCss3, GrGithub, GrHtml5, GrInstagram,  GrLinkedin, GrLocation, GrMail, GrReactjs, GrTwitter,GrJs} from 'react-icons/gr'
+import { FaLinux, FaPython } from 'react-icons/fa';
+import {  GrGithub,  GrInstagram,  GrLinkedin, GrLocation, GrMail, GrReactjs, GrTwitter,GrJs } from 'react-icons/gr'
 import Devsatyam from "../assets/IMG_20230407_190638.png";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 // import { Link } from "react-scroll";
@@ -28,7 +28,7 @@ const Home = () => {
             DEVSATYAM RAY
             </h2>
           <h2 className="text-4xl sm:text-2xl font-bold text-slate-500  text-center pb-3">
-            Frontend Developer
+            Software Developer
             </h2>
               <div className="flex justify-center gap-4">
                 <div className=" items-center w-fit px-2 py-2 rounded-lg">
@@ -48,7 +48,7 @@ const Home = () => {
             <div>
               <div className="flex gap-3 justify-center py-3 text-lg ">
               <GrMail size={27}></GrMail>
-              <p class="font-mono font-semibold">devsatyam@devsatyamray.com</p>
+              <p class="font-mono font-semibold">devsatyamr@gmail.com</p>
               </div>
               <div className="flex gap-3 justify-center py-3 text-lg">
               <GrLocation size={27}></GrLocation>
@@ -87,8 +87,7 @@ const Home = () => {
         <div>
         <h1 className="font-extrabold text-xl p-4">Skills</h1>
           <div className="flex p-1 gap-3">
-          <GrHtml5 size={25}/>
-          <GrCss3 size={25}/>
+          <FaLinux size={25} />
           <GrJs size={25}/>
           <GrReactjs size={25}/>
           <DiJava size={25}/>
